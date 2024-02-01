@@ -1,7 +1,5 @@
 import './App.css';
 import Header from '../components/Header';
-import RecipeCard from '../components/RecipeCard';
-import RecipeFilters from '../components/RecipeFilters';
 
 function App() {
   return (
