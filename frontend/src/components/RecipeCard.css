@@ -1,0 +1,24 @@
+.Recipe-card {
+    width: 25%;
+}
+
+#Easy {
+    padding: 5px 15px;
+    display: inline-block;
+    background-color: rgb(190, 237, 190);
+    border-radius: 1000px
+}
+
+#Medium {
+    padding: 5px 15px;
+    display: inline-block;
+    background-color: rgb(218, 192, 107);
+    border-radius: 1000px
+}
+
+#Hard {
+    padding: 5px 15px;
+    display: inline-block;
+    background-color: rgb(212, 139, 139);
+    border-radius: 1000px
+}
